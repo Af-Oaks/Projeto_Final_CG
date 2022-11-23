@@ -1,0 +1,5 @@
+ROTEIRO
+260.0,18.0,21.0,5.0,0.5
+venus_surface.jpg
+0
+

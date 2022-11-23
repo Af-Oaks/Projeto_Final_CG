@@ -1,0 +1,26 @@
+coisas para fazer
+
+1-sistema de colisao para triggar a musica
+2-modelo da camera pois andre pediu para usar algum model (foguete e tals)
+3-botar musica
+->Quando a "nave" chegar próximo de Marte, deve-se tocar uma música. Ao se afastar, esta música deve ser paralisada.
+
+4-botar diferentes valores para os materais dos planetas(so mexer no txt, de resto o codigo ja vai)
+5-reativar o sistema de variação de luz(ja ta pronto eu so deixei comentado e troquei umas coisas)
+6- verificar se eu deixei um glcolor ativo e retirar do codigo(checar so por preucação)
+7- Adicionar mais 3 pontos de luz!!!:
+->Deve-se ter um ponto de luz posicionado no Sol, um outro na Terra, um outro em Marte e um outro em Saturno 
+->(devem acompanhar as transformações geométricas). Para os planetas, 
+->deve-se ter uma configuração apenas de luz difusa capaz de ser persebida localmente, 
+->sendo que ao pressionar 'L' estes pontos devem ser ligados/desligados. 
+->Para o ponto de luz posicionado no Sol, sem ultrapassar os devidos intervalos, deve-se ao pressionar:
+Z' ('X') aumentar (diminuir) a intensidade de luz uniforme.
+'C' ('V') aumentar (diminuir) a intensidade de luz difusa.
+'B' ('N') aumentar (diminuir) a intensidade de luz especular.
+
+// coisas opcionais!
+// tem uns bagulho que acho q ta meio hardcoded se quiser consertar vai na fé
+// botar um texto para mostrar os valores da luz,difusa,ambiente e tal + posicao do player
+
+
+lembra de botar seus nomes e matriculas

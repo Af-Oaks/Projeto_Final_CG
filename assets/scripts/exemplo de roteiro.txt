@@ -1,0 +1,7 @@
+ASTRO //nome fixo para saber que é o roteiro de carregar o planeta
+//sequencia de floats com a seguinte ordem
+raio_Astro_ao_sol, material, raio_Astro,vec_translacao, velocidade rotacao //termina em branco
+NOME_DA_TEXTURA // termina em branco
+numero de luas //
+exemplo da entrada acima^^
+
